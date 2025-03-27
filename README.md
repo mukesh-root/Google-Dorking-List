@@ -1,7 +1,5 @@
 # Pen Testing Google Dorks
 
-![Pen Testing Google Dorks](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA4MWR3dTByMDBxaWh1d2Y3cW4zZ29ycndybDJucHlhNW14ZHRxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwbWdAuTjDIIg/giphy.gif)
-
 Pen Testing Google Dorks contains an extensive list of **Google Dorks** that can be used for penetration testing, security research, and information gathering. Google Dorking (or Google Hacking) is a technique that leverages advanced search queries to find sensitive information, exposed directories, login pages, vulnerable files, and more.
 
 > **Disclaimer:** This project is for educational and ethical hacking purposes only. Always obtain proper authorization before testing on any system.
